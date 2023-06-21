@@ -1,6 +1,6 @@
 # bitlinks
 
-bitlinks is a single page application developed to create dynamically shortened links with metrics tracking algorithms via Bitly's link shortening API.
+bitlinks is an application developed to create, share and track shortened links using Bitly's API.
 
 ## Links
 
@@ -14,9 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-* [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
-* [NPM](https://www.npmjs.com/) - npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
 * [Node.js](https://www.nodejs.org/) - Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.
+* [NPM](https://www.npmjs.com/) - npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
 
 ### Installing
 
@@ -41,9 +40,9 @@ npm start
 
 ## Technologies
 
-* [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
-* [Bootstrap](https://getbootstrap.com/) - Bootstrap is a free and open-source front-end web framework. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 * [Bitly SDK](https://bitly.com/) - Bitly is a URL shortening service and a link management platform.
+* [Bootstrap](https://getbootstrap.com/) - Bootstrap is a free and open-source front-end web framework. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
+* [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 
 ## Authors
 
