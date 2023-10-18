@@ -1,6 +1,6 @@
 # bitlinks
 
-bitlinks is an application developed to create, share and track shortened links using Bitly's API.
+bitlinks is a web application that empowers users to create, share and track shortened links using Bitly's API.
 
 ## Links
 
